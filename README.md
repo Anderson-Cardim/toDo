@@ -1,5 +1,3 @@
-![](thumbnail.png)
-
 # App de Checklist de Estudos
 
 Um projeto prático desenvolvido passo a passo para quem já tem o básico de ReactJS e quer evoluir para construir aplicações mais organizadas, escaláveis e com experiência moderna. Ao longo do curso, criamos um app de checklist para organizar estudos, tarefas e o que mais precisar.
@@ -47,12 +45,3 @@ npm run dev
 
 4. Acesse no navegador: [http://localhost:5173](http://localhost:5173) (Vite).
 
-## 📚 Mais informações do curso
-
-Curtiu o projeto e quer aprender na prática? O passo a passo completo faz parte do segundo ccurso da carreira React da Alura, com foco em experiência real de desenvolvimento, boas práticas e refatoração progressiva.
-
-Se quiser experimentar, explore o código e customize o checklist do seu jeito!
-
----
-
-Vida longa e próspera 🚀
