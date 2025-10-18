@@ -44,4 +44,5 @@ npm run dev
 ```
 
 4. Acesse no navegador: [http://localhost:5173](http://localhost:5173) (Vite).
+5. Acesse  o site: https://todo-list-ivory-theta.vercel.app/
 
